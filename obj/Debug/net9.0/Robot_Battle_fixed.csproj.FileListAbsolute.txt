@@ -1,0 +1,42 @@
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\bin\Debug\net9.0\Robot_Battle_fixed.exe
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\bin\Debug\net9.0\Robot_Battle_fixed.deps.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\bin\Debug\net9.0\Robot_Battle_fixed.runtimeconfig.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\bin\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\bin\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfoInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfo.cs
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.csproj.CoreCompileInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\refint\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\Robot_Battle_fixed.genruntimeconfig.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\Robot_Battle_fixed\obj\Debug\net9.0\ref\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfoInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfo.cs
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.csproj.CoreCompileInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\refint\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\bin\Debug\net9.0\Robot_Battle_fixed.exe
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\bin\Debug\net9.0\Robot_Battle_fixed.deps.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\bin\Debug\net9.0\Robot_Battle_fixed.runtimeconfig.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\bin\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\bin\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\Robot_Battle_fixed.genruntimeconfig.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.3D - Robot_Battle\obj\Debug\net9.0\ref\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\bin\Debug\net9.0\Robot_Battle_fixed.exe
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\bin\Debug\net9.0\Robot_Battle_fixed.deps.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\bin\Debug\net9.0\Robot_Battle_fixed.runtimeconfig.json
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\bin\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\bin\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfoInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.AssemblyInfo.cs
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.csproj.CoreCompileInputs.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\refint\Robot_Battle_fixed.dll
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.pdb
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\Robot_Battle_fixed.genruntimeconfig.cache
+C:\Users\Leowj\Downloads\Object_Orien\Code\7.4HD\obj\Debug\net9.0\ref\Robot_Battle_fixed.dll
